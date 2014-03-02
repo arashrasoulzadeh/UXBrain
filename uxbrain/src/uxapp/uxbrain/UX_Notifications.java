@@ -4,10 +4,10 @@ import android.app.Activity;
 import android.content.Context;
 import android.widget.Toast;
 
-public class Notifications extends Activity {
+public class UX_Notifications extends Activity {
 
 	Context context;
-	public Notifications (Context c)
+	public UX_Notifications (Context c)
 	{
 		context=c;
 	}

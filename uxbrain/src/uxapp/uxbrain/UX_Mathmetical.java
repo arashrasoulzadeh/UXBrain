@@ -5,12 +5,12 @@ import java.util.Random;
 import android.app.Activity;
 import android.content.Context;
 
-public class Mathmetical extends Activity {
+public class UX_Mathmetical extends Activity {
 	Context context;
 
-	public Mathmetical(Context c) {
+	public UX_Mathmetical(Context c) {
 		context = c;
-	}
+	} 
 	
 	 public int GenereateRandomNumber()
 	 {

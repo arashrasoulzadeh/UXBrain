@@ -10,10 +10,10 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-public class Objects extends Activity {
+public class UX_Objects extends Activity {
 	Context context;
 
-	public Objects(Context c) {
+	public UX_Objects(Context c) {
 		context = c;
 	}
 	//layouts
